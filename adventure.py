@@ -39,7 +39,8 @@ ogreh = 20
 #Hydra chance of hitting you increases with the amount of heads he has
 def hydraregen (heads, ad):
 	hydrahealth = heads * 20
-hydrah = hydraregen(6, 10)
+hydrah = hydraregen(6, 30)
+
 
 while True:
 	fsize = 48
