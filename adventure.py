@@ -26,7 +26,7 @@ pygame.init()
 # for drawing into the screen/window
 screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN) 
 
-#Adrastos (main character) will have 100 hitpoints 
+#Adrastos (main character) will have 500 hitpoints 
 health = 500
 
 #BATTLE STATS SWORD HITS = 10 HEALTH 
