@@ -1,5 +1,5 @@
 #--------------------------------------------------------------------------
-#GAME BY - JUAN DAVID GUERRA AND GIJS NOTEBOOM
+#GAME BY - JUAN DAVID GUERRA, GIJS NOTEBOOM, MICHAEL BATEMAN AND HARRY JIANG
 #ADVENTURE STORY GAME
 #MAIN CHARACTER - Adrastos, son of Arachne
 #VILLAIN - Child molesters
@@ -12,6 +12,7 @@
 # He has to fight his way out of the forest 
 # Clock in the sky, every game time day, new set of monsters appear
 #Every time the monsters respawn, they become harder to kill and more dangerous
+#Type of game - Choice based game, you control the main character
 #--------------------------------------------------------------------------
 
 # Imports
