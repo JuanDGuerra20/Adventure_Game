@@ -43,8 +43,15 @@ def hydraregen (heads, ad):
 	hydrahealth = heads * 20
 hydrah = hydraregen(6, 30)
 
+#Loading the logo for first frame
+asurf = pygame.image.load('LOGO.png')
+imgRect = asurf.get_rect()
+imgRect.centerx = screen.get_rect().centerx
+imgRect.centery = screen.get_rect().centery
 
 while True:
+	 
+	#loading the message for the second frame
 	fsize = 48
 	msg = 'WELCOME TO THE ADVENTURE OF A LIFETIME, PRESS \'S\' TO CONTINUE' 
 	font = pygame.font.Font(None, fsize)
@@ -52,6 +59,15 @@ while True:
 	textRect = text.get_rect()
 	textRect.centerx = screen.get_rect().centerx
 	textRect.centery = screen.get_rect().centery
+
+	#draw the logo
+	screen.blit(asurf, imgRect)
+	pygame.display.flip()
+	
+	#stop the time for a bit
+	time.sleep(5)
+	
+	#draw the text to start the game
 	screen.blit(text, textRect)
 	pygame.display.flip()
 
