@@ -1,19 +1,19 @@
-#--------------------------------------------------------------------------
-#GAME BY - JUAN DAVID GUERRA, GIJS NOTEBOOM, MICHAEL BATEMAN AND HARRY JIANG
-#ADVENTURE STORY GAME
-#MAIN CHARACTER - Adrastos, son of Arachne
-#VILLAIN - Child molesters
-#PLACE - Mythical forest in Canada 
-#PLOT - Adrastos got kidnapped by a bunch of child molesters
-#He was given a claymore as a way to be able to survive 
-#This is a form of entertainment for the child molesters and Satan
-#(he will confront as the final boss battle)
-#and was dropped off in the middle of a mythical forest full of deadly creatures.
-# He has to fight his way out of the forest 
-# Clock in the sky, every game time day, new set of monsters appear
-#Every time the monsters respawn, they become harder to kill and more dangerous
-#Type of game - Choice based game, you control the main character
-#--------------------------------------------------------------------------
+'''
+GAME BY - JUAN DAVID GUERRA, GIJS NOTEBOOM, MICHAEL BATEMAN AND HARRY JIANG
+ADVENTURE STORY GAME
+MAIN CHARACTER - Adrastos, son of Arachne
+VILLAIN - Child molesters
+PLACE - Mythical forest in Canada 
+PLOT - Adrastos got kidnapped by a bunch of child molesters
+He was given a claymore as a way to be able to survive 
+This is a form of entertainment for the child molesters and Satan
+(he will confront as the final boss battle)
+and was dropped off in the middle of a mythical forest full of deadly creatures.
+ He has to fight his way out of the forest 
+ Clock in the sky, every game time day, new set of monsters appear
+Every time the monsters respawn, they become harder to kill and more dangerous
+Type of game - Choice based game, you control the main character
+'''
 
 #loading the doc to travis-ci
 [![Build Status](https://travis-ci.org/juan-david1025/Adventure_Game.svg?branch=master)](https://travis-ci.org/juan-david1025/Adventure_Game) 
