@@ -15,6 +15,8 @@
 #Type of game - Choice based game, you control the main character
 #--------------------------------------------------------------------------
 
+[![Build Status](https://travis-ci.org/juan-david1025/Adventure_Game.svg?branch=master)](https://travis-ci.org/juan-david1025/Adventure_Game) 
+
 # Imports
 import pygame
 import time
