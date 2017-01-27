@@ -33,6 +33,9 @@ screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 #Adrastos (main character) will have 500 hitpoints 
 health = 500
 
+#Health bar will be implemented by taking previous health and subtracting the amount of ad taken in the battle
+healthbar = health - 
+
 #BATTLE STATS SWORD HITS = 10 HEALTH 
 
 #Normal ogre health will be 20
