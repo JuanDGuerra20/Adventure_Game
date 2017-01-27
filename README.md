@@ -1,5 +1,5 @@
 # Adventure_Game
-
+[![Build Status](https://travis-ci.org/juan-david1025/Adventure_Game.svg?branch=master)](https://travis-ci.org/juan-david1025/Adventure_Game)
 ## About
 Adventure choice based game with a bit of graphics
 
